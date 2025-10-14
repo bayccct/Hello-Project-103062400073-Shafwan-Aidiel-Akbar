@@ -5,7 +5,6 @@ import (
 )
 
 // Tugas Smester 2
-// Tambah komen
 func main() {
 	var kendaraan string
 	var waktu int
